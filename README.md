@@ -12,12 +12,12 @@ Both REINFROCE and A2C are implemented
 It's possible to use the package without installing, if you have access to the 
 internet. Simply run
 ```
-Get["https://raw.githubusercontent.com/harveyThomas4692/GAMathematica/\
+Get["https://raw.githubusercontent.com/harveyThomas4692/Mathematica-RL/\
 main/ActorCritic.m"]
 ```
 or 
 ```
-Get["https://raw.githubusercontent.com/harveyThomas4692/GAMathematica/\
+Get["https://raw.githubusercontent.com/harveyThomas4692/Mathematica-RL/\
 main/REINFORCE.m"]
 ```
 in the Mathematica Kernel.
