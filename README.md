@@ -1,5 +1,5 @@
 # Mathematica-RL
-Packages for running RL within mathematica
+Packages for running Reinforcement Learning (RL) within Mathematica
 
 This repository contains the code for Reinforcement Learning (RL), 
 implemented in Mathematica. This was intended for use in the paper:
