@@ -1,7 +1,5 @@
 # Mathematica-RL
-Packages for running Reinforcement Learning (RL) within Mathematica
-
-This repository contains the code for Reinforcement Learning (RL), 
+This repository contains packages for Reinforcement Learning (RL), 
 implemented in Mathematica. This was intended for use in the paper:
 https://doi.org/10.1002/prop.202200034.
 
@@ -58,7 +56,7 @@ for actor critic. Or
 ?REINFORCE
 ```
 ```
-?REINFORCEModulesModules
+?REINFORCEModules
 ```
 for REINFORCE.
 
